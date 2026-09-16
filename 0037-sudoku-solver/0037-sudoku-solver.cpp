@@ -1,39 +1,46 @@
 class Solution {
 public:
     void solveSudoku(vector<vector<char>>& board) {
-         backtrack(board);
-    }
-    
-private:
-    bool backtrack(vector<vector<char>>& board) {
+        // Track used numbers in rows, cols, and boxes
+        bool row[9][9] = {false};
+        bool col[9][9] = {false};
+        bool box[9][9] = {false};
+        
+        // Initialize trackers
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                if (board[i][j] == '.') {
-                    for (char c = '1'; c <= '9'; c++) {
-                        if (isValid(board, i, j, c)) {
-                            board[i][j] = c;
-                            if (backtrack(board)) return true;
-                            board[i][j] = '.'; // undo choice
-                        }
-                    }
-                    return false; // no valid digit found
+                if (board[i][j] != '.') {
+                    int num = board[i][j] - '1';
+                    row[i][num] = col[j][num] = box[(i/3)*3 + j/3][num] = true;
                 }
             }
         }
-        return true; // all cells filled
+        
+        backtrack(board, row, col, box);
     }
     
-    bool isValid(vector<vector<char>>& board, int row, int col, char c) {
-        for (int k = 0; k < 9; k++) {
-            // check row
-            if (board[row][k] == c) return false;
-            // check column
-            if (board[k][col] == c) return false;
-            // check 3x3 sub-box
-            int boxRow = 3 * (row / 3) + k / 3;
-            int boxCol = 3 * (col / 3) + k % 3;
-            if (board[boxRow][boxCol] == c) return false;
+private:
+    bool backtrack(vector<vector<char>>& board, bool row[9][9], bool col[9][9], bool box[9][9]) {
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                if (board[i][j] == '.') {
+                    for (int num = 0; num < 9; num++) {
+                        int boxIndex = (i/3)*3 + j/3;
+                        if (!row[i][num] && !col[j][num] && !box[boxIndex][num]) {
+                            board[i][j] = num + '1';
+                            row[i][num] = col[j][num] = box[boxIndex][num] = true;
+                            
+                            if (backtrack(board, row, col, box)) return true;
+                            
+                            // undo
+                            board[i][j] = '.';
+                            row[i][num] = col[j][num] = box[boxIndex][num] = false;
+                        }
+                    }
+                    return false; // no valid number fits
+                }
+            }
         }
-        return true;
+        return true; // solved
     }
 };
