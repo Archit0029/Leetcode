@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Archit0029/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Archit0029/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Archit0029/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Archit0029/Leetcode/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Archit0029/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Archit0029/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Archit0029/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Archit0029/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Archit0029/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Archit0029/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Archit0029/Leetcode/tree/master/0048-rotate-image) |
 | [0973-k-closest-points-to-origin](https://github.com/Archit0029/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Archit0029/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Archit0029/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Archit0029/Leetcode/tree/master/0048-rotate-image) |
 ## Algorithm X
 |  |
 | ------- |
