@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Archit0029/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Archit0029/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Archit0029/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Archit0029/Leetcode/tree/master/0047-permutations-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Archit0029/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Archit0029/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Archit0029/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Archit0029/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Archit0029/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Archit0029/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Archit0029/Leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Archit0029/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Archit0029/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Archit0029/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Archit0029/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Archit0029/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Archit0029/Leetcode/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
