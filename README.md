@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Archit0029/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Archit0029/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Archit0029/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Archit0029/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Archit0029/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Archit0029/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Archit0029/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Archit0029/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Archit0029/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Archit0029/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Archit0029/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Archit0029/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Linked List
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Archit0029/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Archit0029/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Archit0029/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Archit0029/Leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Archit0029/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Archit0029/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Archit0029/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Archit0029/Leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Archit0029/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Archit0029/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
