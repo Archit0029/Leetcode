@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Archit0029/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Archit0029/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Archit0029/Leetcode/tree/master/0049-group-anagrams) |
+| [3498-reverse-degree-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Archit0029/Leetcode/tree/master/0043-multiply-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
