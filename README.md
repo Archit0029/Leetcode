@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Archit0029/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Archit0029/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Archit0029/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3524-find-x-value-of-array-i](https://github.com/Archit0029/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Archit0029/Leetcode/tree/master/0050-powx-n) |
 | [0973-k-closest-points-to-origin](https://github.com/Archit0029/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Archit0029/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/Archit0029/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Archit0029/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Archit0029/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Archit0029/Leetcode/tree/master/0045-jump-game-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Archit0029/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
 | ------- |
