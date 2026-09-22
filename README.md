@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Archit0029/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Archit0029/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Archit0029/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Archit0029/Leetcode/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Archit0029/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Archit0029/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Archit0029/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Archit0029/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Archit0029/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Archit0029/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Archit0029/Leetcode/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Archit0029/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Archit0029/Leetcode/tree/master/0054-spiral-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
