@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Archit0029/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Archit0029/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Archit0029/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/Archit0029/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Archit0029/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Archit0029/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Archit0029/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Archit0029/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Archit0029/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Archit0029/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Archit0029/Leetcode/tree/master/0049-group-anagrams) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
