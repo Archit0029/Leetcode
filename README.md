@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Archit0029/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Archit0029/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Archit0029/Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Archit0029/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Archit0029/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Archit0029/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Archit0029/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Archit0029/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Archit0029/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Archit0029/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Archit0029/Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Archit0029/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Archit0029/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Archit0029/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
