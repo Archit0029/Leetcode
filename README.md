@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Archit0029/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Archit0029/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Archit0029/Leetcode/tree/master/0058-length-of-last-word) |
+| [0301-remove-invalid-parentheses](https://github.com/Archit0029/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Archit0029/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Archit0029/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Archit0029/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Archit0029/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Archit0029/Leetcode/tree/master/0052-n-queens-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Archit0029/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Archit0029/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/Archit0029/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0785-is-graph-bipartite](https://github.com/Archit0029/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Archit0029/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
